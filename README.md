@@ -39,7 +39,7 @@ Lower p-value indicates lower probability of observing the result under null hyp
 
 Small p-values are associated with large t-statistic.
 
-References
+#### References
 
 * [Hypothesis testing in ML using python](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce)
 * [T-table](http://www.sthda.com/english/wiki/t-distribution-table)
