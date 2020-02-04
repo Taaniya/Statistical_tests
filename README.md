@@ -4,9 +4,9 @@ This repository contains conceptual and practical understanding of statistical t
 
 ### Hypothesis testing 
 #### T-test
-* T-tests tell us how significant the difference is between to sets of observations.
+* T-tests tell us how significant the difference is between two sets of observations.
 
-*  It is a parametric test and assumes that the data come from a normal disrtibution.
+*  It is a parametric test and assumes that the data comes from a normal disrtibution.
 
 #### Dependent t-test / paired samples test
 This test is performed on 2 sets of observations that are related in some way or are captured from the same objects.
